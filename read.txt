@@ -1,0 +1,24 @@
+#include <iostream>
+#include <string.h>
+#include <ctype.h>
+#include <fstream>
+#define Max 100
+#define pie 3.1416
+#define min 0
+
+using namespace std;
+int main()
+{
+   if(a == min)
+	break;
+    
+    /*variable 
+        deceleration*/
+    string line,store;
+    int i,j;
+    
+    if(input.is_open())
+	continue;
+float @result2 = Max + pie;
+}
+                  
